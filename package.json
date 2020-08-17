@@ -1,0 +1,29 @@
+{
+  "name": "airtable-to-firestore",
+  "version": "1.0.0",
+  "description": "Airtable to Firestore is a simple utility used to send data from an Airtable base to a Firestore collection.",
+  "main": "index.js",
+  "keywords": [
+    "airtable",
+    "firestore"
+  ],
+  "scripts": {
+    "push": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abruptive/Airtable-To-Firestore.git"
+  },
+  "author": "Abruptive",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Abruptive/Airtable-To-Firestore/issues"
+  },
+  "homepage": "https://github.com/Abruptive/Airtable-To-Firestore#readme",
+  "dependencies": {
+    "airtable": "^0.9.0",
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^9.1.0"
+  }
+}
