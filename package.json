@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abruptive/Airtable-To-Firestore.git"
+    "url": "git+https://github.com/altechzilla/Airtable-To-Firestore.git"
   },
-  "author": "Abruptive",
+  "author": "Altechzilla",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Abruptive/Airtable-To-Firestore/issues"
+    "url": "https://github.com/altechzilla/Airtable-To-Firestore/issues"
   },
-  "homepage": "https://github.com/Abruptive/Airtable-To-Firestore#readme",
+  "homepage": "https://github.com/altechzilla/Airtable-To-Firestore#readme",
   "dependencies": {
     "airtable": "^0.9.0",
     "dotenv": "^8.2.0",
