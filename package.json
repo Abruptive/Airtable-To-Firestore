@@ -1,6 +1,6 @@
 {
   "name": "airtable-to-firestore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Airtable to Firestore is a simple utility used to send data from an Airtable base to a Firestore collection.",
   "main": "index.js",
   "keywords": [
